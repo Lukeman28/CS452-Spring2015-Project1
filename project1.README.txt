@@ -1,3 +1,5 @@
-name, date, description
+Luke, 3/27/2015, 
 
-be sure to include complete details of how to interact with your game, the scoring system, and how to win
+In this game the player uses the arrow key to avoid obsticals moving across the screen. The obsteicals varry and increase in 
+speed as the game progresses. Once the character reaches a high score of 10 he/she wins the game. If the player lands on any
+of the objects of touches them in any way the player loses and the game willl reset by reloading the webpage.
